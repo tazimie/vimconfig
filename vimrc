@@ -199,7 +199,6 @@ noremap % :set nosplitright<CR>:vsplit<CR>:set splitright<CR>
 noremap <Tab><Tab> :tabe<CR>
 " Move around tabs with tn and ti
 noremap J :tabnext<CR>
-noremap k :tabprevious<CR>
 
 
 " Resize splits with arrow keys
